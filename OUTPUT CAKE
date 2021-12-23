@@ -1,0 +1,210 @@
+Hi! Welcome to Special Cake 
+	     Please fill the information detail 
+
+	Please state your name: NUR SUHAILA BINTI YEOP
+ 	Please state your address location: 153, KAMPUNG KODIANG LAMA DALAM
+ 	Please state your contact number: 0134349430
+	Please state the date of order: 22.12.2021
+ 	Please state date to pick up (7 days after date of order): 30.12.2021
+
+
+####################################################################################################################
+ 					 Here's the Menu of Our Shop
+####################################################################################################################
+					 Category 1: Special Choose
+####################################################################################################################
+
+ Size(inch) [code] 	Weight (kg) 	Height(inch) 	Type [code] 	Name [code] 			Price (RM)
+
+									Tiramisu[9] 			    94
+									New York Cheese Cake[10] 	    100
+       		      		       			 Baked[40]	Black Forest[11] 		    106
+									Caramel Cream[7] 		    82
+									Oreo Cake[8] 			    88
+									Old Fashion Chocolate Cake[12]	    112
+
+									Tiramisu[9] 			    96
+									New York Cheese Cake[10] 	    102
+     6[6]		   0.7 		     5 		 Steam[42]	Black Forest[11] 		    108
+									Caramel Cream[7] 		    84
+									Oreo Cake[8] 			    90
+									Old Fashion Chocolate Cake[12]	    114
+
+									Tiramisu[9] 			    114
+									New York Cheese Cake[10] 	    120
+       		       		      			Ice cream[60]	Black Forest[11] 		    126
+									Caramel Cream[7] 		    104
+									Oreo Cake[8] 			    108
+									Old Fashion Chocolate Cake[12]	    132
+#####################################################################################################################
+
+									Tiramisu[9] 			    112
+									New York Cheese Cake[10] 	    120
+       		      		       			 Baked[40]	Black Forest[11] 		    128
+									Caramel Cream[7] 		    96
+									Oreo Cake[8] 			    104
+									Old Fashion Chocolate Cake[12]	    136
+
+									Tiramisu[9] 			    114
+									New York Cheese Cake[10] 	    122
+     8[8]		   1.3 		     5 		 Steam[42]	Black Forest[11] 		    130
+									Caramel Cream[7] 		    98
+									Oreo Cake[8] 			    106
+									Old Fashion Chocolate Cake[12]	    138
+
+									Tiramisu[9] 			    132
+									New York Cheese Cake[10] 	    140
+       		       		      			Ice cream[60]	Black Forest[11] 		    148
+									Caramel Cream[7] 		    116
+									Oreo Cake[8] 			    124
+									Old Fashion Chocolate Cake[12]	    136
+
+#####################################################################################################################
+#####################################################################################################################
+
+
+####################################################################################################################
+					Category 2: Special Cupcakes
+####################################################################################################################
+
+ Size(inch) [code] 	Weight (kg) 	Height(inch) 	Type [code] 	Name [code] 			Price (RM)
+
+									Banana[1.5] 			    4
+									Carrot[2.5] 			    6
+       		      		       			 Baked[1]	Chocolate[1.0] 			    3
+									Vanila[0.5] 			    2
+
+									Banana[1.5] 			    4.5
+									Carrot[2.5] 			    6.5
+     2.0[2]		   0.08 	     1.5 	 Steam[1.5]	Chocolate[1.0] 			    3.5
+									Vanila[0.5] 			    2.5
+
+									Banana[1.5] 			    5
+									Carrot[2.5] 			    7
+       		      		       			 Ice cream[1]	Chocolate[1.0] 			    4
+									Vanila[0.5] 			    3
+#####################################################################################################################
+
+									Banana[1.5] 			    4.75
+									Carrot[2.5] 			    7.25
+       		      		       			 Baked[1]	Chocolate[1.0] 			    3.5
+									Vanila[0.5] 			    2.25
+
+									Banana[1.5] 			    5.25
+									Carrot[2.5] 			    7.75
+     2.5[2.5]		   0.08 	     1.5 	 Steam[1.5]	Chocolate[1.0] 			    4
+									Vanila[0.5] 			    2.75
+
+									Banana[1.5] 			    5.75
+									Carrot[2.5] 			    8.25
+       		      		       			 Ice cream[1]	Chocolate[1.0] 			    4.5
+									Vanila[0.5] 			    3.25
+
+#####################################################################################################################
+#####################################################################################################################
+
+
+####################################################################################################################
+					Category 3: Special Slice
+####################################################################################################################
+
+ Size(inch) [code] 	Shape (kg) 	Height(inch) 	Type [code] 	Name [code] 			Price (RM)
+
+									Burnt Cheese[3] 		    10
+									Red velvet[4] 			    10
+       2[0]		Triangular	     5       	 Baked[10]	Rainbow[15] 			    10
+									Creamy Vanila Fruit Cake[6] 	    10
+									Chocolate Truffle Cream Cake[13]    10
+									Classic Almond Cake[14] 	    10
+
+#####################################################################################################################
+#####################################################################################################################
+
+	Which size do you want? (Please state the code): 6
+	What is the name of cake that you want to order? (Please state the code): 11
+	What type of cake do you prefer? (Please state the code): 60
+	How many cakes do you want?: 1
+
+
+####################################################################################################################
+ 					 Here's the Packaging Menu of Our Shop
+####################################################################################################################
+				Packaging for Category 1: Special Choose
+####################################################################################################################
+ Type 		Height(inch)/Shape [code] 	Decoration colour/colour 	Material Used [code] 	Price (RM)
+
+	 		      				White 			  Glass]46] 		    184
+			4[4]    			Silver			  Clay[35] 		    140
+							Gold 			  Wood[35] 		    44
+Cake_Stand									  Aluminium[11] 	    28
+
+	 		      				White 			  Glass]46] 		    230
+			5[5]    			Silver			  Clay[35] 		    175
+							Gold 			  Wood[35] 		    55
+										  Aluminium[11] 	    35
+#########################################################################################################################
+		    Square[1] 				White 			  Glass[46] 		    46
+Cake_Board	    Rectangle[1]  			Silver			  Clay[35] 			    35
+		    Round[1]				Gold 			  Wood[7] 			    11
+										  Aluminium[11]		    7
+
+#########################################################################################################################
+#########################################################################################################################
+
+
+#####################################################################
+		 Packaging for Category 2: Special Cupcake
+#####################################################################
+ Type  		Height/code 	Material Used [code] 	Price (RM)
+
+	 		      	Aluminium foil[2]  	    2
+Box_of_		  3[1]		Bagasse Paper[3] 	    3
+6_cups				Shop's container[8] 	    8
+				Container[0] 		    0
+
+#####################################################################
+#####################################################################
+
+
+#####################################################################
+		 Packaging for Category 3: Special Slice
+#####################################################################
+ Type  		Height/code 	Material Used [code] 	Price (RM)
+
+	 		      	Aluminium foil[0.7]  	    1.4
+Box_of_		  6[2]		Bagasse Paper[0.5] 	    1
+2_slices			Shop's container[2] 	    4
+				Container[0] 		    0
+
+#####################################################################
+#####################################################################
+
+	Choose the type of packaging: Cake_Stand
+	What is the height/shape of packaging (Please state the code): 5
+	What is the material used to create the packaging? (Please state the code) : 46
+
+
+###########################################
+	CUSTOMER'S RECEIPT
+	NAME: NUR SUHAILA BINTI YEOP
+	DATE OF ORDER: 22.12.2021
+	DATE TO PICK UP: 30.12.2021
+
+	DETAILS
+	CODE FOR SIZE OF CAKE: 6
+	CODE FOR CAKE: 11
+	CODE FOR TYPE OF CAKE: 60
+	QUANTITY OF CAKE: 1
+	TYPE OF PACKAGING: Cake_Stand
+	CODE FOR PACKAGING SIZE: 5.0
+	CODE FOR PACKAGING MATERIAL: 46.0
+
+	SUBTOTAL: 356.0
+	DISCOUNT RECEIVE: 17.8
+	TOTAL PAYMENT: 338.2
+
+       *Please bring your container
+	3 days before date of pick up
+	Thank you for purchase from us*
+
+###########################################

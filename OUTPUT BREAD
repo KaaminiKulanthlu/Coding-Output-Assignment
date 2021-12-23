@@ -1,0 +1,70 @@
+*************Hello Welcome to UUM Star Bakery****************
+Please enter your name
+KAAMINI
+Please enter your age
+19
+Please enter your address
+CAMERONHIGHLANDS
+Please enter your contact number
+01114940211
+Do you have any medical condition,if yes please state
+NO
+Your details :
+Name :KAAMINI
+Age : 19
+Address : CAMERONHIGHLANDS
+Contact number : 1114940211
+Medical Condition : NO
+/////////////////////////////////////////////////////////////////////////////////////////
+Here are the types of the flour to be chosen
+Please write price according to the list to select type of flour
+***********************************************************************************************
+1. Rice Flour(100g)         RM 0.50 
+2. Wheat Flour(100g)        RM 0.80 
+3. Wholemeal(100g)          RM 1.00 
+4. Mixed Grains(100g)       RM 1.20 
+************************************************************************************************
+1.20
+You choose : RM 1.2
+Please enter the amount of flour
+Amount available : 100g,200g,500g
+200
+The amount of flour you entered : 200.0
+The total amount of flour price is RM 2.40 
+Please enter the amount of milk in millilitres(ml)
+Amount of milk available : 200ml,300ml,400ml
+300
+The price of milk is RM 2.4
+The total price of flour and milk is RM 4.80
+Please enter the amount of sugar in grams(g)
+The amount of sugar available : 100g,200,300g
+100
+The price of sugar is RM 0.30 
+The total price of flour,milk and sugar is RM 5.10
+Now please enter the price of flavour according to list below
+***************************************************************************************************
+ 1. Plain             RM 0.10
+ 2. Chocolate         RM 0.20
+ 3. Vanilla           RM 0.20
+ 4. Butterscotch      RM 0.50
+****************************************************************************************************
+0.50
+You chose : RM 0.50
+Please choose your favourite toppings by enter its price according list below
+*****************************************************************************************************
+ 1. Raisins           RM 0.40
+ 2. Chocolate Chips   RM 0.50
+ 3. Nuts              RM 0.30
+ 4. Purple Grains     RM 0.60
+*****************************************************************************************************
+0.60
+You price of the toppings is RM 0.60
+The total price of your bread : RM 6.20 
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+Please enter the quantity of your bread
+3
+The quantity of your bread is 3.0
+Your total price : RM 18.60 
+Please pay at the counter
+*******************************Thank You For Visiting Us**********************************************
+***********************************Please Come Again**************************************************
